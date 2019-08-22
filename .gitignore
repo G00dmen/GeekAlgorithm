@@ -3,3 +3,6 @@
 *.[oa]			# *.a, *.o
 *~			# *~
 /**/build		# /build, /../build
+.*
+*.out
+*.json
