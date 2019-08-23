@@ -1,8 +1,8 @@
 # Игнорировать :
 
-*.[oa]			# *.a, *.o
-*~			# *~
-/**/build		# /build, /../build
-.*
-*.out
-*.json
+*.[oa]			
+*~			    
+/**/build		
+.*               
+*.json          
+*.out           
