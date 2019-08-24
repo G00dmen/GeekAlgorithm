@@ -53,7 +53,7 @@ float masRecPow(float a, int b){
 	{
 		b = -b;
 		a = 1/a;
-		return (masRecPow(a,b-1) * a);	
+		return masRecPow(a,b);	
 	}
 	
 }

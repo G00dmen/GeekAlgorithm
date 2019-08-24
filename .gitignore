@@ -5,4 +5,5 @@
 /**/build		
 .*               
 *.json          
-*.out           
+*.out
+*.exe
