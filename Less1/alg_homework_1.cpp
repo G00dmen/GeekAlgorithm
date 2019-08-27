@@ -1,5 +1,5 @@
 // Кузнецов Алексей <alek-kuzne@yandex.ru> 
-// Больше откровенно не успел.. 
+// Больше откровенно не успел.... 
 
  #include<iostream>
  #include<cmath>
